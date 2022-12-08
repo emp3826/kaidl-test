@@ -1,6 +1,6 @@
-rootProject.name = "golang-android-plugin"
+rootProject.name = "kaidl"
 
-include("gradle-plugin")
+include("kaidl")
 
 pluginManagement {
     repositories {
